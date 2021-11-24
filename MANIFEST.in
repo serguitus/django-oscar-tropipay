@@ -1,0 +1,8 @@
+global-exclude *.*
+
+include AUTHORS
+include README.rst
+include LICENSE
+include LICENSE.rst
+include setup.py
+graft tropipay
